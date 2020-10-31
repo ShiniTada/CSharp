@@ -1,0 +1,6 @@
+D:\4 COURSE\РИС\3\SERVER\bin\Debug\SERVER.exe.config
+D:\4 COURSE\РИС\3\SERVER\obj\Debug\SERVER.csprojResolveAssemblyReference.cache
+D:\4 COURSE\РИС\3\SERVER\bin\Debug\SERVER.exe
+D:\4 COURSE\РИС\3\SERVER\bin\Debug\SERVER.pdb
+D:\4 COURSE\РИС\3\SERVER\obj\Debug\SERVER.exe
+D:\4 COURSE\РИС\3\SERVER\obj\Debug\SERVER.pdb

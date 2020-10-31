@@ -1,0 +1,9 @@
+D:\4 COURSE\РИС\4\AFOUseExample\AFOUseExample\bin\Debug\AFOUseExample.exe.config
+D:\4 COURSE\РИС\4\AFOUseExample\AFOUseExample\bin\Debug\AFOUseExample.exe
+D:\4 COURSE\РИС\4\AFOUseExample\AFOUseExample\bin\Debug\AFOUseExample.pdb
+D:\4 COURSE\РИС\4\AFOUseExample\AFOUseExample\obj\Debug\AFOUseExample.csprojResolveAssemblyReference.cache
+D:\4 COURSE\РИС\4\AFOUseExample\AFOUseExample\obj\Debug\AFOUseExample.Form1.resources
+D:\4 COURSE\РИС\4\AFOUseExample\AFOUseExample\obj\Debug\AFOUseExample.Properties.Resources.resources
+D:\4 COURSE\РИС\4\AFOUseExample\AFOUseExample\obj\Debug\AFOUseExample.csproj.GenerateResource.Cache
+D:\4 COURSE\РИС\4\AFOUseExample\AFOUseExample\obj\Debug\AFOUseExample.exe
+D:\4 COURSE\РИС\4\AFOUseExample\AFOUseExample\obj\Debug\AFOUseExample.pdb

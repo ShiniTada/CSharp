@@ -1,0 +1,7 @@
+create table store 
+(
+   id int IDENTITY(1,1) PRIMARY KEY NOT NULL,
+   date varchar(255) NOT NULL,
+   type varchar(255),
+   amount int
+);
