@@ -1,0 +1,55 @@
+﻿.master
+{
+    color:White;
+    font-family:Comic Sans MS;
+    font-size:x-large;
+    font-style:italic;
+}
+
+    body {
+        background: url(http://fondopantalla.com.es/file/935/2560x1600/crop/carretera-hacia-un-nuevo-planeta.jpg);
+        -moz-background-size: 100%;
+        -webkit-background-size: 100%;
+        -o-background-size: 100%;
+        background-size: 100%;
+    }
+ 
+.centro
+{
+    text-align: center;
+    margin-top: 200px; 
+}
+.bottone
+{
+   background-color: #26527C;
+   border:none;
+   color:White;
+   width:75px;
+   padding:15px 10px;
+   text-align:center;
+   text-decoration:none;
+   display:inline-block;
+   cursor:pointer;    
+   font-size: larger;
+   margin: 10px 0;
+   font-weight: bold;
+}
+
+.bottone:hover 
+{
+    background-color: #00A779;
+    filter: drop-shadow(2px 2px 3px #19B092);
+}
+
+.text
+{
+    width:330px;
+    padding:12px 20px;
+    margin:8px 0;
+    display:inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    text-align: right;
+    font-size: 16px;
+}

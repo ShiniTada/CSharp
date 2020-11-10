@@ -1,0 +1,16 @@
+e:\windows_\visual studio 2010\Projects\Calcolatrice\Calcolatrice\bin\Calcolatrice.dll
+e:\windows_\visual studio 2010\Projects\Calcolatrice\Calcolatrice\bin\Calcolatrice.pdb
+e:\windows_\visual studio 2010\Projects\Calcolatrice\Calcolatrice\obj\Debug\Calcolatrice.dll
+e:\windows_\visual studio 2010\Projects\Calcolatrice\Calcolatrice\obj\Debug\Calcolatrice.pdb
+D:\4 COURSE\РИС\_\RIS_4_Course_1\Calcolatrice\Calcolatrice\bin\Calcolatrice.dll.config
+D:\4 COURSE\РИС\_\RIS_4_Course_1\Calcolatrice\Calcolatrice\bin\Calcolatrice.dll
+D:\4 COURSE\РИС\_\RIS_4_Course_1\Calcolatrice\Calcolatrice\bin\Calcolatrice.pdb
+D:\4 COURSE\РИС\_\RIS_4_Course_1\Calcolatrice\Calcolatrice\obj\Debug\Calcolatrice.csprojResolveAssemblyReference.cache
+D:\4 COURSE\РИС\_\RIS_4_Course_1\Calcolatrice\Calcolatrice\obj\Debug\Calcolatrice.dll
+D:\4 COURSE\РИС\_\RIS_4_Course_1\Calcolatrice\Calcolatrice\obj\Debug\Calcolatrice.pdb
+D:\4 COURSE\РИС\CSharp\5\Calculator\bin\Calcolatrice.dll.config
+D:\4 COURSE\РИС\CSharp\5\Calculator\bin\Calcolatrice.dll
+D:\4 COURSE\РИС\CSharp\5\Calculator\bin\Calcolatrice.pdb
+D:\4 COURSE\РИС\CSharp\5\Calculator\obj\Debug\Calcolatrice.csprojResolveAssemblyReference.cache
+D:\4 COURSE\РИС\CSharp\5\Calculator\obj\Debug\Calcolatrice.dll
+D:\4 COURSE\РИС\CSharp\5\Calculator\obj\Debug\Calcolatrice.pdb
